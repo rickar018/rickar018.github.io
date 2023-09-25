@@ -256,6 +256,15 @@ hr {
 	padding-bottom: 0;
 }
 
+#testimonials div.changelogBox {
+	border: none;
+	padding: 5px;
+	font: 24px/36px sans-serif;
+	width: 530px;
+	height: 200px;
+	overflow: scroll;
+}
+
 #testimonials p {
 	display: inline-block;
 	line-height: 24px;
